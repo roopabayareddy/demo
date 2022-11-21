@@ -5,4 +5,8 @@ print("Added one more print")
 print("new print")
 
 
+print(5+10)
+
+
 print(3*4)
+
